@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f6fc26-5900-4771-8f42-6244e8efa268" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-950">
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="132" column="31" lean-forward="true" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logs/log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/logs/log.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="494" />
+    <option name="y" value="555" />
+    <option name="width" value="974" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.9.1" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\JS\Portfolio\public" />
+      <recent name="F:\Code\JS\Portfolio" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f6fc26-5900-4771-8f42-6244e8efa268" name="Default" comment="" />
+      <created>1511160352790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511160352790</updated>
+      <workItem from="1511160353935" duration="6588000" />
+      <workItem from="1513229303287" duration="102000" />
+      <workItem from="1513229741037" duration="772000" />
+      <workItem from="1513272687790" duration="631000" />
+      <workItem from="1513470019455" duration="60000" />
+      <workItem from="1513470189736" duration="135000" />
+      <workItem from="1518320778909" duration="80000" />
+      <workItem from="1518323235479" duration="1263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9631000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12170706" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="132" column="31" lean-forward="true" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/F:/Code/JS/Portfolio">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/public/1.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/application.js#Router#274;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#View#485;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#compileETag#557;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#compileQueryParser#614;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#compileTrust#672;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#debug#432;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#deprecate#709;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#finalhandler#230;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#flatten#753;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#http#515;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#merge#793;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#methods#308;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#middleware#342;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#query#389;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#resolve#839;F:/Code/JS/Portfolio/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/desktop-2.jpg</node>
+            <node x="" y="">$PROJECT_DIR$/public/dwicon.png</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.1/core-modules/events.js#EventEmitter#1306;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/express.js#EventEmitter#273;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#Route#389;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#Router#428;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#bodyParser#218;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#index.js#1584;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#mixin#309;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#proto#351;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#query.js#1536;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#req#462;F:/Code/JS/Portfolio/node_modules/express/lib/express.js#res#494;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.1/core-modules/fs.js</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.1/core-modules/http.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/setprototypeof/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/public/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/index.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/accepts/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/index.js#Layer#262;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#Route#230;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#debug#364;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#deprecate#412;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#flatten#456;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#methods#294;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#mixin#328;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#parseUrl#496;F:/Code/JS/Portfolio/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/depd/index.js</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/utils-merge/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-type/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/range-parser/index.js</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/public/jsicon.png</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/layer.js#debug#274;F:/Code/JS/Portfolio/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.1/core-modules/net.js#isIP#46277;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.1/core-modules/path.js#resolve#35759;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/query.js#merge#218;F:/Code/JS/Portfolio/node_modules/express/lib/middleware/query.js#parseUrl#253;F:/Code/JS/Portfolio/node_modules/express/lib/middleware/query.js#qs#289;</node>
+            <node x="" y="">$APPLICATION_CONFIG_DIR$/javascript/nodejs/8.9.1/core-modules/querystring.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/request.js#accepts#230;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#deprecate#264;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#fresh#401;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#http#373;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#isIP#315;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#parse#473;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#parseRange#431;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#proxyaddr#506;F:/Code/JS/Portfolio/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/response.js#Buffer#203;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#contentDisposition#237;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#cookie#836;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#deprecate#294;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#encodeUrl#338;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#escapeHtml#376;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#http#417;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#isAbsolute#458;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#merge#597;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#normalizeType#694;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#normalizeTypes#749;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#onFinished#493;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#path#534;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#send#868;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#setCharset#801;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#sign#640;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#statuses#562;F:/Code/JS/Portfolio/node_modules/express/lib/response.js#vary#974;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/route.js#Layer#324;F:/Code/JS/Portfolio/node_modules/express/lib/router/route.js#debug#230;F:/Code/JS/Portfolio/node_modules/express/lib/router/route.js#flatten#284;F:/Code/JS/Portfolio/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/public/style.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/utils.js#Buffer#207;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#compileETag#3224;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#compileQueryParser#3774;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#compileTrust#4424;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#contentDisposition#241;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#contentType#298;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#deprecate#341;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#etag#458;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#flatten#385;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#isAbsolute#1086;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#mime#432;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#normalizeType#1693;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#normalizeTypes#1971;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#proxyaddr#486;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#qs#525;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#querystring#549;F:/Code/JS/Portfolio/node_modules/express/lib/utils.js#setCharset#5021;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/view.js#debug#230;F:/Code/JS/Portfolio/node_modules/express/lib/view.js#fn#1551;F:/Code/JS/Portfolio/node_modules/express/lib/view.js#fs#304;F:/Code/JS/Portfolio/node_modules/express/lib/view.js#path#276;</node>
+            <node x="" y="">$PROJECT_DIR$/public/wsicon.png</node>
+            <node x="" y="">__express;</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.3097493036211699" x="908.0" y="808.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log2017-11-20.txt" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="132" column="31" lean-forward="true" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-950">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

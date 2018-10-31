@@ -1,4 +1,4 @@
-FROM node
+FROM master
 
 WORKDIR /devchatdemo
 COPY package.json ./

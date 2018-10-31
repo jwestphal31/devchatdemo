@@ -31,8 +31,7 @@
 
            stage('Initiate Trend Micro SmartCheck Container Image Assurance Scan'){
              steps{
-                sh "pip install -r requirements_jenkins.txt" 
-                sh "python3 /home/devchatdemo/jenkins_plugin.py"
+                sh './scan.sh' 
              }
           }
 

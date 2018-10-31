@@ -1,9 +1,9 @@
 pipeline{
 
      environment { 
-        KUBECONFIG = '/home/gce-test/.kube/config'
+        KUBECONFIG = '/home/devchatdemo/.kube/config'
     }
-    agent { label 'node1' }
+    agent { label 'master' }
     stages {
           stage('Checkout'){
             steps{
@@ -11,38 +11,31 @@ pipeline{
             }
           }
 
-
           stage('Package Docker Image'){
               steps{
-                   sh "docker build -t us.gcr.io/test-bbfc6/jeffsbooks:latest ."
+                   sh "docker build -t 529505258873.dkr.ecr.us-east-1.amazonaws.com/devchatdemo:latest ."
               }
           }
 
-          stage('Push Docker Image to GCR'){
+          stage('Push Docker Image to ECR'){
            steps{
                 script{
                     docker.withRegistry('https://us.gcr.io', 'gcr:gcr-284') {
-                        docker.image('us.gcr.io/test-bbfc6/jeffsbooks').push('latest')
+                        docker.image('529505258873.dkr.ecr.us-east-1.amazonaws.com/devchatdemo').push('latest')
                     }
                 }
             }
           }
 
-
            stage('Initiate Trend Micro SmartCheck Container Image Assurance Scan'){
              steps{
-                sh "pip install -r requirements_jenkins.txt" 
-                sh "python3 /home/gce-test/jenkins_plugin.py"
+                sh './scan.sh'
              }
           }
 
-
-            stage('Deploy to GKE'){
+            stage('Deploy to K8s'){
                 steps{
-                    sh ". /home/gce-test/venv/bin/activate"
-                    sh 'kubectl config use-context gke_test-bbfc6_us-west1-a_jeffsbooks-cluster'
-                    sh "kubectl plugin ds assign-policy PCI"
-                    sh "kubectl --kubeconfig=/home/gce-test/.kube/config delete --namespace=jeffsbooks deployment jeffsbooks"
+                    sh ". /home/decvchatdemo/venv/bin/activate"
                     sh "kubectl --kubeconfig=/home/gce-test/.kube/config apply -f jeffsbooks-deployment-gcp.yaml"
                  }
           }

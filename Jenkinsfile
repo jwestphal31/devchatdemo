@@ -1,9 +1,3 @@
-   pipeline{
-
-     environment { 
-        KUBECONFIG = '/home/devchatdemo/.kube/config'
-    }
-    agent { label 'master' }
     stages {
           stage('Checkout'){
             steps{

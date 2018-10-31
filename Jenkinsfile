@@ -1,4 +1,3 @@
-    stages {
           stage('Checkout'){
             steps{
                 checkout devchatdemo
@@ -38,5 +37,3 @@
           }
 
     }
-
-}

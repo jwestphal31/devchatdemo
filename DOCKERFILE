@@ -1,6 +1,6 @@
 FROM node
 
-WORKDIR /portfolio
+WORKDIR /devchatdemo
 COPY package.json ./
 
 RUN npm install

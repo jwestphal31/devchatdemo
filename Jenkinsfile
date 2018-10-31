@@ -7,7 +7,7 @@
     stages {
           stage('Checkout'){
             steps{
-                checkout scm
+                checkout devchatdemo
             }
           }
 

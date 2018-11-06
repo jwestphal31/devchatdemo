@@ -1,0 +1,12 @@
+.DS_Store
+.Python
+.idea/
+.cache/
+dist/
+__pycache__/
+bin/
+lib/
+pip-selfcheck.json
+share/
+include/
+venv/

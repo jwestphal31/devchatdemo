@@ -21,7 +21,7 @@ assets = Environment(app)
 
 @app.route("/")
 def index():
-    return "hello world"
+    return "hello world2"
 
 
 

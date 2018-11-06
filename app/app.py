@@ -8,7 +8,7 @@ import boto3
 
 app = Flask(__name__, static_folder='static', static_url_path='/static')
 app.config['DEBUG'] = False
-app.config['TEMPLATES_AUTO_RELOAD'] = True
+app.config['TEMPLATES_AUTO_RELOAD'] = False
 app.config['SECRET_KEY'] = "123"
 
 # asset pipeline
@@ -26,4 +26,4 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run(debug=False,host='0.0.0.0', port=8080)
+    app.run(debug=False,host='0.0.0.0', port=80)

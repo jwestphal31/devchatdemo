@@ -18,7 +18,7 @@ pipeline{
           stage('Push Docker Image to AWS ECR'){
            steps{
                 script{
-                    docker.withRegistry('507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo', 'ecr:us-east-1:ecr-credentials') {
+                    docker.withRegistry('507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo', 'ecr:us-east-1:ecr-login') {
                         docker.image('507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo:latest').push('latest')
                     }
                 }

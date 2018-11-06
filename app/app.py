@@ -21,7 +21,7 @@ assets = Environment(app)
 
 @app.route("/")
 def index():
-    return "Welcome to jDubs App 4"
+    return "Welcome to jDubs App 5"
 
 
 

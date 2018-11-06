@@ -1,0 +1,26 @@
+apiVersion: apps/v1 # for versions before 1.8.0 use apps/v1beta1
+kind: Deployment
+metadata:
+  name: devechatdemo
+  namespace: devechatdemo
+  labels:
+    app: devechatdemo
+    deepsecurity-policy: PCI
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: devchatdemo
+  template:
+    metadata:
+      labels:
+        app: devchatdemo
+    spec:
+      containers:
+        - image: 507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo:latest
+          name: devchatdemo
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
+              name: flask
+

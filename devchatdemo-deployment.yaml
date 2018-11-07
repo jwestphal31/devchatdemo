@@ -17,7 +17,7 @@ spec:
         app: devchatdemo
     spec:
       containers:
-        - image: 507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo:latest
+        - image: 529505258873.dkr.ecr.us-east-1.amazonaws.com/devchatdemo
           name: devchatdemo
           imagePullPolicy: Always
           ports:

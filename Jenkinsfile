@@ -11,15 +11,15 @@ pipeline{
 
           stage('Package Docker Image'){
               steps{
-                   sh "docker build -t 507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo:latest ."
+                   sh "docker build -t 529505258873.dkr.ecr.us-east-1.amazonaws.com/devchatdemo ."
               }
           }
 
           stage('Push Docker Image to AWS ECR'){
            steps{
                 script{
-                    docker.withRegistry('https://507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo', 'ecr:us-east-1:ecr-credentials') {
-                        docker.image('507385280051.dkr.ecr.us-east-1.amazonaws.com/devchatdemo:latest').push('latest')
+                    docker.withRegistry('https://529505258873.dkr.ecr.us-east-1.amazonaws.com/devchatdemo', 'ecr:us-east-1:ecr-credentials') {
+                        docker.image('529505258873.dkr.ecr.us-east-1.amazonaws.com/devchatdemo').push('latest')
                     }
                 }
             }

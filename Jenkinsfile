@@ -28,7 +28,7 @@ pipeline{
 
            stage('Initiate Trend Micro SmartCheck Container Image Assurance Scan'){
              steps{
-                sh "python3 /home/ubuntu/jenkins_plugin.py"
+                sh "python3 /home/centos/jenkins_plugin.py"
              }
           }
 
@@ -36,7 +36,7 @@ pipeline{
 
             stage('Deploy to EKS'){
                 steps{
-                    sh ". /home/ubuntu/unset.sh"
+                    sh ". /home/centos/unset.sh"
                     sh "kubectl plugin ds assign_policy PCI"
                     sh "kubectl --kubeconfig=/home/ubuntu/kubeconfig delete --namespace=devchatdemo deployment devchatdemo"
                     sh "kubectl --kubeconfig=/home/ubuntu/kubeconfig apply -f devchatdemo-deployment.yaml"

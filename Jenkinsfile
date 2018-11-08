@@ -38,8 +38,8 @@ pipeline{
                 steps{
                     sh ". /home/centos/unset.sh"
                     sh "kubectl plugin ds assign_policy PCI"
-                    sh "kubectl --kubeconfig=/home/ubuntu/kubeconfig delete --namespace=devchatdemo deployment devchatdemo"
-                    sh "kubectl --kubeconfig=/home/ubuntu/kubeconfig apply -f devchatdemo-deployment.yaml"
+                    sh "kubectl --kubeconfig=/home/centos/kubeconfig delete --namespace=devchatdemo deployment devchatdemo"
+                    sh "kubectl --kubeconfig=/home/centos/kubeconfig apply -f devchatdemo-deployment.yaml"
                  }
           }
 

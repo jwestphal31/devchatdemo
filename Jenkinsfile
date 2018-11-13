@@ -38,8 +38,6 @@ pipeline{
 
             stage('Deploy to EKS'){
                 steps{
-                    sh ". /home/centos/unset.sh"
-                    sh "kubectl plugin ds assign_policy PCI"
                     sh "kubectl --kubeconfig=/home/centos/kubeconfig delete --namespace=devchatdemo deployment devchatdemo"
                     sh "kubectl --kubeconfig=/home/centos/kubeconfig apply -f devchatdemo-deployment.yaml"
                  }

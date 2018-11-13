@@ -38,7 +38,7 @@ pipeline{
 
             stage('Deploy to EKS'){
                 steps{
-                    sh "kubectl --kubeconfig=/home/ubuntu/kubeconfig delete --namespace=default deployment devchatdemo"
+                    sh "kubectl --kubeconfig=/home/centos/kubeconfig delete --namespace=default deployment devchatdemo"
                     sh "kubectl --kubeconfig=/home/centos/kubeconfig apply -f devchatdemo-deployment.yaml"
                  }
           }

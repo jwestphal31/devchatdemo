@@ -64,7 +64,7 @@ body, html {
 		vertical-align: middle;
 		color: orange;
 		background-color: white;
-		background-image: url("/2.jpg");
+		background-image: url("/whitebackground.jpg");
 		display: flex;
 		align-items: center;
 		justify-content: center;		
@@ -78,9 +78,9 @@ body, html {
 	h2 {
 		text-align: center;
 		vertical-align: middle;
-		color: green;
-		background-color: black;
-		background-image: url('/2.jpg');
+		color: orange;
+		background-color: white;
+		background-image: url('/whitebackground.jpg');
 		display: flex;
 		align-items: center;
 		justify-content: center;		
@@ -94,9 +94,9 @@ body, html {
 	h3 {
 		text-align: center;
 		vertical-align: middle;
-		color: green;
-		background-color: black;
-		background-image: url('/2.jpg');
+		color: orange;
+		background-color: white;
+		background-image: url('/whitebackground.jpg');
 		display: flex;
 		align-items: center;
 		justify-content: center;		
@@ -109,15 +109,15 @@ body, html {
 
 	div {
 		margin: 0 auto;
-		background-color: black;
-		background-image: url('/2.jpg');
+		background-color: white;
+		background-image: url('/whitebackground.jpg');
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		vertical-align: middle;
 		border: 0px solid #272661;
 		text-align: left;				
-		color: green;
+		color: orange;
 		font-family: Courier New, Courier, monospace;
 		font-size: 28px;
 		padding-top: 25px;

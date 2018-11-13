@@ -30,7 +30,7 @@ pipeline{
              steps{
                 sh "whoami"
                 sh "pip3.6 install -r requirements_jenkins.txt"
-                sh "python /home/centos/jenkins_plugin.py"
+                sh "python3.6 /home/centos/jenkins_plugin.py"
              }
           }
 

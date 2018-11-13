@@ -2,7 +2,7 @@ apiVersion: apps/v1 # for versions before 1.8.0 use apps/v1beta1
 kind: Deployment
 metadata:
   name: devchatdemo
-  namespace: devchatdemo
+  namespace: default
   labels:
     app: devchatdemo
     deepsecurity-policy: PCI

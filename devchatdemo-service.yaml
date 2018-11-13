@@ -2,7 +2,7 @@ kind: Service
 apiVersion: v1
 metadata:
   name: devchatdemo-service
-  namespace: devchatdemo
+  namespace: default
 spec:
   type: LoadBalancer
   selector:

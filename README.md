@@ -1,5 +1,3 @@
-# Portfolio
-testing
-test4
-test3
-Portfolio Website with Node.JS
+# MKE AWS User Group CI/CD Pipeline
+
+The #1 AWS User Group with 600+ members!

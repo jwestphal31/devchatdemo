@@ -1,6 +1,5 @@
 # MKE AWS User Group CI/CD Pipeline
-test6
-
+Here we go!
 
 
 The #1 AWS User Group with 600+ members!
